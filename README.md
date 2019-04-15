@@ -32,6 +32,7 @@ https://localhost:4848
 
 ## Build the war
 ```
+cd com.glassfish.example
 mvn clean install
 ```
 
