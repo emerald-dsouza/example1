@@ -18,7 +18,8 @@ vagrant ssh
 asadmin change-admin-password
 ```
 Default username is admin
-Default password is <blank>
+
+Default password is *blank*
 
 ```
 asadmin enable-secure-admin
